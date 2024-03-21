@@ -14,7 +14,7 @@ To understand the background and internals, see [getting started guide](https://
 
 To run this example you will need Docker and docker-compose installed. See the [installation guide](https://docs.docker.com/compose/install/).
 
-## Running
+## Running 
 
 ```bash
 docker-compose up
